@@ -19,8 +19,6 @@ This project is aimed at predicting the prices of air tickets using various mach
 - [Usage](#usage)
 - [Modeling and Analysis](#modeling-and-analysis)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 The objective of this project is to build a predictive model to forecast airfare prices based on historical data. The dataset includes various features such as gender, customer type, age, type of travel, class, flight distance, and various satisfaction ratings.
